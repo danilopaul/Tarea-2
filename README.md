@@ -76,7 +76,45 @@ image
 
 *El cicrcuito que tiene menos corriente es el circuito (a).*
 
+12. se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+*IR = 100mA      →         R = V/IR              →  V = Ir * A*
+
+**Ir = 150mA         →     R = 20V/100mA          →  V = 150mA * 0.2Ω**
+
+**V = 20V           →      R = 0.2Ω                → V = 30v**
+ 
+ *- SE cambiaria la fuente a 30v*
+ 
 Calculo de la corriente:
+
+16. Determine la corriente en cada caso:
+
+*(a) V = 9 V,   R = 2.7 kΩ*    
+
+*→    I = V/R  →  I = 9 v/2.7 kΩ    →    I = 18.15 mA*
+
+*(b) V = 5.5 V, R = 10 kΩ**      
+
+*→    I = V/R  →  I = 5.5 v/10 kΩ   →    I = 0.55 mA*
+
+*(c) V = 40 V, R = 68 kΩ*     
+
+**→    I = V/R  →  I = 40 v/68 kΩ    →    I = 0.59 mA
+
+*(d) V = 1 kV, R = 2.2 kΩ*    
+
+**→    I = V/R  →  I = 1 kV/2.2 kΩ   →    I = 0.45 A
+
+*(e) V = 66 kV, R = 10 MΩ*     
+
+**→    I = V/R  →  I = 66 kV/10 MΩ   →    I = 6.6 mA
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+![image](https://user-images.githubusercontent.com/105687375/170450046-13d1db65-4d10-4da0-b6c3-be24293cf31a.png)
+
+El valor de la resistencia es de 37.4kΩ. Para calcular la corriente, se utlizar la ley de ohm I= V/R, el resultado es: 0.32A
 
 22.El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la 
 corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 
@@ -199,6 +237,8 @@ lecturas de ohmímetro mostradas.
 
 En base a la imagen expuesta, se ha deducido que el foco fundido sería el número 4, es decir
 el foco que se mide en el paso 4.
+
+Capitulo4:
 
 Energía y potencia
 
@@ -357,7 +397,20 @@ Psalida = 4.25 W
 
 4.VIde:
 
-5. Conclusiones:
+5. Conlusiones:
+
+Los conceptos analizados en los capítulos 3 y 4, enfocados en los circuitos eléctricos, nos permiten comprender los procesos físicos que ocurren en él, como en las relaciones de voltaje, corriente y resistencia de un circuito, para ser demostrados mediante procesos algebraicos.
+
+Mediante el uso de las formulas identificadas en cada tema, se puede desarrollar cada ejercicio propuesto, ya que las misma nos permiten identificar los datos que están presenten y buscar mediante despejes de las misma, su respectiva solución.
+
+En conclusión, es importante analizar y comprender la ley de ohm, ya que esta relaciona los tres parámetros principales de un circuito; corriente, intensidad y resistencia, así como tener en cuenta las unidades en las que se trabajan para obtener un resultado correcto.
+
+6. bibliografía
+
+Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación
+
+
+
 
 
 
