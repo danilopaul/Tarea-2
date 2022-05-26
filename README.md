@@ -13,8 +13,10 @@ Identificar las formulas y proceso de desarrollo que se debe tener en cuenta par
 Resolver los ejercicios propuesto en cada capítulo, aplicando las formulas encontradas, para la potencia energía, fuentes de energía, eficiencia, entre otros.
 
 2. Marco Teorico:
+3. 
+![Untitled Diagram-Page-2 drawio (3)](https://user-images.githubusercontent.com/105687375/170433787-e25207e4-fe6e-4cac-b89f-7dcae62e6d8f.png)
 
-
+![Untitled Diagram-Page-4 drawio (1)](https://user-images.githubusercontent.com/105687375/170433820-7005e337-b393-46f1-98bb-f5c6a0fc12b8.png)
 
 
 3. Resolucion de ejercicios pares:
