@@ -17,11 +17,11 @@ Resolver los ejercicios propuesto en cada capítulo, aplicando las formulas enco
 
 
 
-3.Resolucion de ejercicios pares:
+3. Resolucion de ejercicios pares:
 
 La relación de corriente, voltaje y resistencia
 
-2.Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
+2.Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos. 
 
 *I = V/R*
 
@@ -73,6 +73,7 @@ image
 *El circuito que tiene más corriente es el circuito (c).*
 
 *El cicrcuito que tiene menos corriente es el circuito (a).*
+
 
 
 
