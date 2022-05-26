@@ -397,6 +397,9 @@ Psalida = 4.25 W
 
 4.VIde:
 
+https://youtu.be/t42GSvAoIXw
+
+
 5. Conlusiones:
 
 Los conceptos analizados en los capítulos 3 y 4, enfocados en los circuitos eléctricos, nos permiten comprender los procesos físicos que ocurren en él, como en las relaciones de voltaje, corriente y resistencia de un circuito, para ser demostrados mediante procesos algebraicos.
